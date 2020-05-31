@@ -1,5 +1,4 @@
 ### Date created
-Include the date you created this project and README file.
 31.05.2020
 ### Project Title
 Exploring bikeshare data with python for 3 cities
